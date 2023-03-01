@@ -21,9 +21,9 @@
   <img align="center" alt="Gbr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gbr-React" height="30" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Gbr-Jquery" height="30" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-   <img align="center" alt="Gbr-Java" height="30" width+"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Gbr-PHP" height="60" width+"80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-     <img align="center" alt="Gbr-PHP" height="30" width+"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg">
+  <img align="center" alt="Gbr-Java" height="30" width+"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gbr-PHP" height="60" width+"80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+
   
   ##
   <div>
